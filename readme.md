@@ -1,6 +1,6 @@
 # MPH-Practicum #
 
-Scripts used to create environmental exposure estiamtes based on GPS time activity patterns
+Scripts used to create environmental exposure estimates based on GPS time activity patterns
 
 **Author:** [Andrew Larkin](https://www.linkedin.com/in/andrew-larkin-525ba3b5/) <br>
 **Affiliation:** [Oregon State University, College of Public Health and Human Sciences](https://health.oregonstate.edu/) <br>
